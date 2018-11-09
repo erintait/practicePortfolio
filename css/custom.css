@@ -1,0 +1,15 @@
+.contact-form {
+    padding: 2vh 0;
+}
+
+.email-input {
+    width: 55%;
+    font-size: 1.5em;
+    text-align: center;
+    color: black;
+}
+
+.email-input::selection {
+    background-color: black;
+    color: white;
+}
